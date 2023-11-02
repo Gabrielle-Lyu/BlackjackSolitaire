@@ -2,13 +2,16 @@
 Blackjack Solitaire game
 
 --------------------------GAME RULES--------------------------
+
 Implementation of Blackjack Solitare game on:
 https://www.solitairenetwork.com/solitaire/blackjack-square-solitaire-game.html
 
 Blackjack Solitaire is a one-player game with scoring rules inspired by the casino game of Blackjack,
 where players attempt to build a hand with a value as close to 21 as possible without exceeding 21.
 
+
 -----CARD VALUE-----
+
 Each card has a value.
 Cards with numbers on them (2s through 10s) have value equal to the number on the card.
 “Face” cards (Kings, Queens, Jacks) are valued at 10 each.
